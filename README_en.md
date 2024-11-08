@@ -6,7 +6,6 @@
   [🤔Reporting Issues](https://github.com/Alannikos/FunGPT/issues) 
 
   [English](README_en.md) | [简体中文](README_zh.md)
-
 </div>
 
 _____________________________________________________________________
@@ -24,7 +23,6 @@ _____________________________________________________________________
 - \[2024/10/19\] 🎉💬 Completed the generation of conversation topics and the dialogue data using LLM
 - \[2024/10/28\] 🎈🥳 complete the configuration for finetuning in XTuner, and now it's time to release the first version of our awesome [Kua_LLM](https://huggingface.co/Alannikos768/Kua_LLM)!
 
-
 </details>
 
 _____________________________________________________________________
@@ -32,7 +30,7 @@ _____________________________________________________________________
 
 ## 🌈 FunGPT —— Your Intelligent Emotional Regulator.🍹
 
-In this fast-paced world, we all need a little something to spice up life. Whether you need a touch of **sweet talk** to lift your spirits or a dose of **sharp comebacks** to release stress, **FunGPT**, developed based on the InternLM2.5 series of large language models, has got you covered.
+In this fast-paced world, we all need a little something to spice up life. Whether you need a touch of **sweet talk** to lift your spirits or a dose of **sharp comebacks** to release stress, **FunGPT**, developed based on the InternLM2.5 series of large models, has got you covered.
 
 🍬 Sweet Talk Mode:
 
@@ -66,7 +64,6 @@ Project Highlights:
 
 We believe FunGPT will not only provide you technical inspiration but also endless fun in interaction. Let's explore the infinite possibilities of AI together, enhancing your social charm and linguistic artistry! Join us in this unparalleled innovative journey! 🌟
 _____________________________________________________________________
-
 
 
 ## Star History
